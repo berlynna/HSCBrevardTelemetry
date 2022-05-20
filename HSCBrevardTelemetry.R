@@ -11,6 +11,7 @@ library(lubridate)
 library(tidyverse)
 library(gWidgets2)
 
+
 #To use the Actel package we need a biometics, spatial, and deployment data frame, plus the actual detection data frame
 
 #Read in the biometrics data and clean it up
